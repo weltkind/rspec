@@ -8,6 +8,8 @@ gem 'mysql2', '0.3.20'
 
 gem 'bootstrap-sass', '2.3.2.0'
 
+gem 'bcrypt', '3.1.10'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
