@@ -7,4 +7,6 @@ module UsersHelper
       image_tag(gravatar_url, alt: user.name, class: "gravatar", width: attr[:width], height: attr[:height])
     end
 
+
+
 end
